@@ -5,8 +5,8 @@ Shot timer and temperature monitoring for espresso machines that lack both
 Currently used hardware:
 - Geekcreit UNO R3
 - Geekcreit 0.96" I²C SSD1306 display module (128x64 px)
-- 1 yellow LED
-- 1 1k resistor
-- 1 10k resistor
-- 1 100k resistor (temp sensor reference)
-- 1 NTC3950 temperature sensor
+- 1x yellow LED
+- 1x 1k LED resistor
+- 1x 10k Ohm pullup resistor
+- 1x 100k resistor (temp sensor reference)
+- 1x NTC3950 100k temperature sensor
