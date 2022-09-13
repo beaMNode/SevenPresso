@@ -1,6 +1,7 @@
 # SevenPresso
-Shot timer and temperature monitoring for espresso machines that lack both
+Universal shot timer and temperature monitoring for espresso machines that lack both
 
+ 
 
 Currently used hardware:
 - Geekcreit UNO R3
